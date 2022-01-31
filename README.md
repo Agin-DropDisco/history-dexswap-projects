@@ -1,13 +1,13 @@
 # ZooHarmony is Part of DexSwap Projects
 
-## DexSwap Project has built alot of project for Hackathon/Hackevent
+## DexSwap Project has built more than three dapp project for Hackathon/Hackevent:
 
 1. DexSwap AMM 
 2. TEBS/iSTOCK 
 3. XEDA
 4. FOXES 
 
-Since DexSwap AMM’s, TEBS/iSTOCK, XEDA and FOXES launch in 2021, we have secured multiple rewards from public blockchain/hackathon & hack event, including :
+Since DexSwap AMM’s, TEBS/iSTOCK, XEDA and FOXES launch in 2021, we have secured multiple rewards from public blockchain/hackathon & hack event including:
 
 #####  HARMONY
 - [x] Bridging TradFi to DeFi
